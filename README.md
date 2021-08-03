@@ -1,0 +1,3 @@
+- print('👋 Hi, I’m Gleidson-Soares')
+- print('🌱 I’m currently learning ...')
+- print('i am from Brazil, i'm learning english, help me?')
